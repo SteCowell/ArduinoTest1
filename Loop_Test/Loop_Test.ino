@@ -1,6 +1,6 @@
 /* Understanding Loops 
    Basic code 
-   OK, I've sdded a new comment for testing */
+   OK, I've added a new comment for testing */
 
 void setup() {
   Serial.begin (9600);
